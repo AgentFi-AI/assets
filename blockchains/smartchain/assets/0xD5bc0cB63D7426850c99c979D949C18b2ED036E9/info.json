@@ -1,0 +1,14 @@
+{
+  "name": "AgentFi Token",
+  "symbol": "AGFI",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "AgentFi Protocol — Decentralized AI Agent Economy for Autonomous Finance on BNB Chain.",
+  "website": "https://agentfi.io",
+  "explorer": "https://bscscan.com/token/0xD5bc0cB63D7426850c99c979D949C18b2ED036E9",
+  "status": "active",
+  "links": [
+    { "name": "twitter", "url": "https://twitter.com/AgentFiProtocol" },
+    { "name": "discord", "url": "https://discord.gg/agentfi" }
+  ]
+}
